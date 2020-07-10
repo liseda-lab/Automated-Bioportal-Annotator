@@ -1,5 +1,5 @@
 # Automated-Bioportal-Annotator
-This python script iterates a list of terms over the Bioportal API's Annotator tool and returns a table with detailed ontology annotations. 
+This Python script iterates a list of terms over the Bioportal API's Annotator tool and returns a table with detailed ontology annotations. 
 Each entry on the table also specifies the annotation IRI, its Ontology, and a value for how complete the annotation was in relation to the term (Complete, Component, Partial). A typical result file should look like this:
 
 | Term        | Match           | Completeness  | Ontology | IRI|
@@ -13,7 +13,8 @@ Each entry on the table also specifies the annotation IRI, its Ontology, and a v
 
 
 #### How do I use this?
-Open it, fill out the variables for:
+You must have the **requests** and **urllib** Python modules installed.
+Open the script, fill out the variables for:
 - __apikey -__ A valid Bioportal user API key (requires a Bioportal account)
 - __term_path -__ A path to a .txt file with a list of terms
 - __result_path -__ A path to a .csv file to write your results
