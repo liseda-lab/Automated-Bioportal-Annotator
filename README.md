@@ -12,7 +12,7 @@ Each entry on the table also specifies the annotation IRI, its Ontology, and a v
 
 
 
-#### How do I use this?
+### How do I use this?
 You must have the **requests** and **urllib** Python modules installed.
 
 Open the script, fill out the variables for:
@@ -24,5 +24,5 @@ Open the script, fill out the variables for:
 and run it.
 
 
-#### Can I have some test data?
+### Can I have some test data?
 A Terms.txt file detailing a list of terms for medical symptoms and body regions is provided.
