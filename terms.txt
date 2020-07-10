@@ -1,0 +1,76 @@
+Region of onset
+Limbs 
+Bulbar 
+Neck
+Thoracic
+Abdominal
+Respiratory
+Generalized
+Upper motor neuron
+Lower motor neuron
+Limb onset
+upper limb
+lower limb
+Predominant side
+left
+right
+symmetric
+Predominant impairment
+distal
+proximal
+Fasciculations at onset
+weight loss
+emotional lability
+Cognitive symptoms
+behavioral symptoms
+language deficit
+handedness
+ambidextrous
+bulbar upper motor neuron sign
+bulbar lower motor neuron sign
+tongue spasticity
+jaw clonus
+tongue atrophy
+tongue fasciculations
+weak orbicularis oris
+facial muscle fasciculations
+masseter atrophy
+upper motor neuron sign
+lower motor neuron sign
+hyperreflexia
+finger flexion
+spasticity
+atrophy and weakness
+fasciculations
+hyporeflexia
+babinski's sign
+neck weakness
+Thoracic muscle fasciculations
+resting respiratory fatigue
+orthopnea
+paradoxical respiration
+weak cough
+revised el escorial criteria
+progressive muscle atrophy
+primary lateral sclerosis
+monomelic
+progressive bulbar palsy
+extrapyramidal signs (resting tremor)
+extrapyramidal signs (bradykinesia)
+sensory changes
+apraxia (facial)
+apraxia(upper limbs)
+broad-based gait
+cognition-qualitative evaluation
+depression
+loss of interest
+thoughts of suicide
+manifestation at onset
+other manifestations
+brisk jaw jerk
+hoffman sign
+exertional respiratory fatigue 
+postural instability
+cognition
+pessimism
+als
