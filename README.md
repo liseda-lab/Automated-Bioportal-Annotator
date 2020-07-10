@@ -20,7 +20,8 @@ Open the script, fill out the variables for:
 - __term_path -__ A path to a .txt file with a list of terms
 - __result_path -__ A path to a .csv file to write your results
 - __ontologies -__ A list of comma-separated ontologies (must be Bioportal acronyms) you want to use for the annotation process
-and run it.
+
+and run it. Easy.
 
 
 #### May I have some test data?
