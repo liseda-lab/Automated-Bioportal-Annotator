@@ -21,8 +21,8 @@ Open the script, fill out the variables for:
 - __result_path -__ A path to a .csv file to write your results
 - __ontologies -__ A list of comma-separated ontologies (must be Bioportal acronyms) you want to use for the annotation process
 
-and run it. Easy.
+and run it.
 
 
-#### May I have some test data?
-Yes you may. A Terms.txt file detailing a list of terms for medical symptoms and body regions is provided.
+#### Can I have some test data?
+A Terms.txt file detailing a list of terms for medical symptoms and body regions is provided.
