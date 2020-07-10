@@ -14,12 +14,13 @@ Each entry on the table also specifies the annotation IRI, its Ontology, and a v
 
 #### How do I use this?
 You must have the **requests** and **urllib** Python modules installed.
+
 Open the script, fill out the variables for:
 - __apikey -__ A valid Bioportal user API key (requires a Bioportal account)
 - __term_path -__ A path to a .txt file with a list of terms
 - __result_path -__ A path to a .csv file to write your results
 - __ontologies -__ A list of comma-separated ontologies (must be Bioportal acronyms) you want to use for the annotation process
-and run it. Easy 
+and run it.
 
 
 #### May I have some test data?
