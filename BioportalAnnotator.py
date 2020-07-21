@@ -61,5 +61,5 @@ result_path="C:/...../Results.csv"
 api_key='.....'
 term_path="C:/...../terms.txt"
 ontologies="HP,UBERON"
-get_annotation(api_key,term_path,result_path)
+get_annotation(api_key,term_path,ontologies,result_path)
 
