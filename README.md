@@ -23,6 +23,3 @@ Open the script, fill out the variables for:
 
 and run it.
 
-
-### Can I have some test data?
-A Terms.txt file detailing a list of terms for medical symptoms and body regions is provided.
