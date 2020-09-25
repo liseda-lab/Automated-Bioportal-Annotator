@@ -23,3 +23,5 @@ Open the script, fill out the variables for:
 
 and run it.
 
+## Acknowledgments
+This project has been funded by Portuguese FCT through the LASIGE Research Unit (UID/CEC/00408/2019), and by the SMILAX project Semantic Mining with Linked Data (PTDC/EEI_ESS/4633/2014)
